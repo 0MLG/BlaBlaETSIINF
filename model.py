@@ -2,7 +2,7 @@ from typing import TypeVar, Optional
 from pydantic import BaseModel
 
 """
-model.py: Contiene las clases y atributos de las diferentes colecciones de la base de datos
+model.py: Contiene las clases y atributos de las diferentes colecciones de la base de datos y el Response
 """
 
 T = TypeVar('T')

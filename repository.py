@@ -3,7 +3,7 @@ from config import database
 import uuid
 
 """
-repository.py: Contiene los metodos put y get de las colecciones de la base de datos
+repository.py: Contiene las consultas realizadas sobre la base de datos
 """
 
 class BookingRepo():

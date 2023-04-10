@@ -3,7 +3,7 @@ from repository import BookingRepo, MessageRepo, ReviewRepo, TripRepo, UserRepo
 from model import Booking, Message, Review, Trip, User, Response
 
 """
-router.py: Contiene los métodos get, put, post y delete
+router.py: Contiene los métodos get, create, update y delete
 """
 
 router = APIRouter(prefix="/BlaBlaETSIINF")
